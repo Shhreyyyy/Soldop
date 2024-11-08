@@ -1,0 +1,19 @@
+{
+  "name": "soldop",
+  "version": "1.0.0",
+  "description": "**Author**: Shrey Tarsaria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shhreyyyy/Soldop.git"
+  },
+  "author": "Shrey Tarsaria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shhreyyyy/Soldop/issues"
+  },
+  "homepage": "https://github.com/Shhreyyyy/Soldop#readme"
+}
