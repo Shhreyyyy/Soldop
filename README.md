@@ -21,7 +21,7 @@ soldop/
 ├── frontend/
 │   ├── src/
 │   │   ├── app.jsx         # Main React component
-│   │   └── index.js        # Entry point
+│   │   └── index.jsx       # Entry point
 │   ├── public/
 │   └── package.json
 └── server/
