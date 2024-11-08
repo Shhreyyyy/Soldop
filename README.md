@@ -16,6 +16,7 @@ Soldop is a web application that allows users to receive airdrops on the Solana 
 - **Blockchain**: Solana Devnet
 
 ## Project Structure
+```plaintext
 soldop/
 ├── frontend/
 │   ├── src/
