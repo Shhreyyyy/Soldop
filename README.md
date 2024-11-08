@@ -24,7 +24,6 @@ soldop/
 │   │   └── index.js        # Entry point
 │   ├── public/
 │   └── package.json
-└── backend/
-    ├── server/
-    │   └── index.js        # Express server with Solana integration
-    ├── package.json
+└── server/
+│   └── index.js            # Express server with Solana integration
+└── package.json            # Root package.json for managing dependencies
